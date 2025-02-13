@@ -11,7 +11,7 @@
             },
             "tiempo": 3,
             "servicio": "Internet de fibra \u00f3ptica",
-            "frecuencia": 5
+            "ingresos": 5
         },
         {
             "id": 63926593,
@@ -24,7 +24,7 @@
             },
             "tiempo": 10,
             "servicio": "Plan pospago",
-            "frecuencia": 34
+            "ingresos": 38
         },
         {
             "id": 39264893,
@@ -37,7 +37,7 @@
             },
             "tiempo": 11,
             "servicio": "Internet de fibra \u00f3ptica",
-            "frecuencia": 3
+            "ingresos": 3
         },
         {
             "id": 63926582,
@@ -50,7 +50,7 @@
             },
             "tiempo": 9,
             "servicio": "Internet de fibra \u00f3ptica",
-            "frecuencia": 8
+            "ingresos": 8
         },
         {
             "id": 29437629,
@@ -63,7 +63,7 @@
             },
             "tiempo": 0,
             "servicio": "Plan prepago",
-            "frecuencia": 18
+            "ingresos": 18
         },
         {
             "id": 53826482,
@@ -76,7 +76,7 @@
             },
             "tiempo": 5,
             "servicio": "Internet de fibra \u00f3ptica",
-            "frecuencia": 81
+            "ingresos": 81
         },
         {
             "id": 53836482,
@@ -89,7 +89,7 @@
             },
             "tiempo": 0,
             "servicio": "Plan pospago",
-            "frecuencia": 163
+            "ingresos": 163
         },
         {
             "id": 53762539,
@@ -102,7 +102,7 @@
             },
             "tiempo": 0,
             "servicio": "Plan prepago",
-            "frecuencia": 0
+            "ingresos": 1
         }
     ]
 }

@@ -1,0 +1,108 @@
+{
+    "usuarios": [
+        {
+            "id": 37751077,
+            "nombres": "Dante",
+            "apellidos": "Salamanca Galvis",
+            "direccion": "Calle 34 # 34 - 25",
+            "infoContacto": {
+                "tel": 7004318,
+                "cel": 3027341353
+            },
+            "tiempo": 3,
+            "servicio": "Internet de fibra \u00f3ptica",
+            "frecuencia": 5
+        },
+        {
+            "id": 63926593,
+            "nombres": "Pedro Felipe",
+            "apellidos": "G\u00f3mez Bonilla",
+            "direccion": "Carrera 78 # 23 - 182",
+            "infoContacto": {
+                "tel": 7392645,
+                "cel": 3175344567
+            },
+            "tiempo": 10,
+            "servicio": "Plan pospago",
+            "frecuencia": 34
+        },
+        {
+            "id": 39264893,
+            "nombres": "Sarah Sof\u00eda",
+            "apellidos": "Rodr\u00edguez Pe\u00f1aranda",
+            "direccion": "Calle 10 # 27 - 33",
+            "infoContacto": {
+                "tel": 7409264,
+                "cel": 3245674529
+            },
+            "tiempo": 11,
+            "servicio": "Internet de fibra \u00f3ptica",
+            "frecuencia": 3
+        },
+        {
+            "id": 63926582,
+            "nombres": "Aura Camila",
+            "apellidos": "Pico Araque",
+            "direccion": "Calle 11b # 1b - 20 Torres de Zafiro",
+            "infoContacto": {
+                "tel": 6492649,
+                "cel": 3154566738
+            },
+            "tiempo": 9,
+            "servicio": "Internet de fibra \u00f3ptica",
+            "frecuencia": 8
+        },
+        {
+            "id": 29437629,
+            "nombres": "Vladimir",
+            "apellidos": "D\u00edaz Contreras",
+            "direccion": "Calle 45 # 74 - 148",
+            "infoContacto": {
+                "tel": 5834649,
+                "cel": 3067687264
+            },
+            "tiempo": 0,
+            "servicio": "Plan prepago",
+            "frecuencia": 18
+        },
+        {
+            "id": 53826482,
+            "nombres": "Daniel Esteban",
+            "apellidos": "Guerrero",
+            "direccion": "Calle 45 # 83 - 45",
+            "infoContacto": {
+                "tel": 2743937,
+                "cel": 3136282516
+            },
+            "tiempo": 5,
+            "servicio": "Internet de fibra \u00f3ptica",
+            "frecuencia": 81
+        },
+        {
+            "id": 53836482,
+            "nombres": "Edgar Leonardo",
+            "apellidos": "Acevedo Arteaga",
+            "direccion": "Avenida 3 # 16 - 193",
+            "infoContacto": {
+                "tel": 4364927,
+                "cel": 3168296253
+            },
+            "tiempo": 0,
+            "servicio": "Plan pospago",
+            "frecuencia": 163
+        },
+        {
+            "id": 53762539,
+            "nombres": "Juan David",
+            "apellidos": "Saavedra",
+            "direccion": "Carrera 53 # 72 - 16",
+            "infoContacto": {
+                "tel": 5337823,
+                "cel": 3207658399
+            },
+            "tiempo": 0,
+            "servicio": "Plan prepago",
+            "frecuencia": 0
+        }
+    ]
+}
